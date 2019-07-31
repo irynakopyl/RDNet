@@ -1,3 +1,2 @@
 # RDNet 
-# repository for sharing done home tasks
-# for .NET EPAM University Program
+# Binary Tree branch includes done task for Generic and Collections module
