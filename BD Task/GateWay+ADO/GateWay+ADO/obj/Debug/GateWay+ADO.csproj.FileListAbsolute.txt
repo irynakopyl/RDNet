@@ -1,0 +1,7 @@
+D:\EPAM\BD Task\GateWay+ADO\GateWay+ADO\obj\Debug\GateWay+ADO.csprojAssemblyReference.cache
+D:\EPAM\BD Task\GateWay+ADO\GateWay+ADO\obj\Debug\GateWay+ADO.csproj.CoreCompileInputs.cache
+D:\EPAM\BD Task\GateWay+ADO\GateWay+ADO\bin\Debug\GateWay+ADO.exe.config
+D:\EPAM\BD Task\GateWay+ADO\GateWay+ADO\bin\Debug\GateWay+ADO.exe
+D:\EPAM\BD Task\GateWay+ADO\GateWay+ADO\bin\Debug\GateWay+ADO.pdb
+D:\EPAM\BD Task\GateWay+ADO\GateWay+ADO\obj\Debug\GateWay+ADO.exe
+D:\EPAM\BD Task\GateWay+ADO\GateWay+ADO\obj\Debug\GateWay+ADO.pdb
