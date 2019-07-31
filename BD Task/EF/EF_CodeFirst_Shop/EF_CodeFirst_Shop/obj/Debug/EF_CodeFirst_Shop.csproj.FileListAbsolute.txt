@@ -1,0 +1,12 @@
+D:\EPAM\BD Task\EF\EF_CodeFirst_Shop\EF_CodeFirst_Shop\bin\Debug\EF_CodeFirst_Shop.exe.config
+D:\EPAM\BD Task\EF\EF_CodeFirst_Shop\EF_CodeFirst_Shop\bin\Debug\EF_CodeFirst_Shop.exe
+D:\EPAM\BD Task\EF\EF_CodeFirst_Shop\EF_CodeFirst_Shop\bin\Debug\EF_CodeFirst_Shop.pdb
+D:\EPAM\BD Task\EF\EF_CodeFirst_Shop\EF_CodeFirst_Shop\bin\Debug\EntityFramework.dll
+D:\EPAM\BD Task\EF\EF_CodeFirst_Shop\EF_CodeFirst_Shop\bin\Debug\EntityFramework.SqlServer.dll
+D:\EPAM\BD Task\EF\EF_CodeFirst_Shop\EF_CodeFirst_Shop\bin\Debug\EntityFramework.xml
+D:\EPAM\BD Task\EF\EF_CodeFirst_Shop\EF_CodeFirst_Shop\bin\Debug\EntityFramework.SqlServer.xml
+D:\EPAM\BD Task\EF\EF_CodeFirst_Shop\EF_CodeFirst_Shop\obj\Debug\EF_CodeFirst_Shop.csprojAssemblyReference.cache
+D:\EPAM\BD Task\EF\EF_CodeFirst_Shop\EF_CodeFirst_Shop\obj\Debug\EF_CodeFirst_Shop.csproj.CoreCompileInputs.cache
+D:\EPAM\BD Task\EF\EF_CodeFirst_Shop\EF_CodeFirst_Shop\obj\Debug\EF_CodeFirst_Shop.csproj.CopyComplete
+D:\EPAM\BD Task\EF\EF_CodeFirst_Shop\EF_CodeFirst_Shop\obj\Debug\EF_CodeFirst_Shop.exe
+D:\EPAM\BD Task\EF\EF_CodeFirst_Shop\EF_CodeFirst_Shop\obj\Debug\EF_CodeFirst_Shop.pdb
